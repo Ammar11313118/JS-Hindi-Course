@@ -1,0 +1,5 @@
+{
+    "debug.javascript.enableNetworkView": true,
+    "debug.javascript.autoAttachFilter": "smart",
+    "debug.javascript.terminalOptions": {}
+}
